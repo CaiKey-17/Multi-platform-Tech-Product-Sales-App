@@ -4,7 +4,7 @@ Thông tin cài đặt và sử dụng hệ thống
 ==============================================
 
 Tên dự án: Ecommerce-App (Flutter + Spring Boot + Sentiment Analysis + Search by Image Upload) 
-Nhóm thực hiện: Nguyễn Cao Kỳ + Nguyễn Minh Luân + Mai Thị Ánh Như  
+Nhóm thực hiện: Nguyễn Cao Kỳ  
 Môn học: Phát triển ứng dụng di động đa nền tảng (HK2/2024-2025)
 Giảng viên hướng dẫn: Mai Văn Mạnh
 Ngày hoàn thành: 17/05/2025
