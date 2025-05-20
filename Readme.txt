@@ -8,7 +8,7 @@ Nhóm thực hiện: Nguyễn Cao Kỳ + Nguyễn Minh Luân + Mai Thị Ánh Nh
 Môn học: Phát triển ứng dụng di động đa nền tảng (HK2/2024-2025)
 Giảng viên hướng dẫn: Mai Văn Mạnh
 Ngày hoàn thành: 17/05/2025
-
+Video demo: https://drive.google.com/file/d/1FkW6i4n6vDvEeWzpuGVOZtw2Autx4Qoz/view?usp=sharing
 ----------------------------------------------
 1. HƯỚNG DẪN CÀI ĐẶT (Yêu cầu có Docker + Flutter)
 ----------------------------------------------
